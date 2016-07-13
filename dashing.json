@@ -1,10 +1,9 @@
 {
-    "name": "Dashing",
-    "package": "dashing",
+    "name": "Refactoring Recipes",
+    "package": "refactoring",
     "index": "index.html",
     "selectors": {
-        "dt a": "Command",
-        "title": "Package"
+        "h2": "Entry"
     },
     "ignore": [
         "ABOUT"
